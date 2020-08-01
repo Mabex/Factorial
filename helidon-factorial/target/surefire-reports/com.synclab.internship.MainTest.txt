@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.synclab.internship.MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.832 sec - in com.synclab.internship.MainTest
